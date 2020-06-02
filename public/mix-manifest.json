@@ -1,0 +1,10 @@
+{
+    "/assets/js/app.js": "/assets/js/app.js",
+    "/assets/css/app.css": "/assets/css/app.css",
+    "/assets/js/create-file.js": "/assets/js/create-file.js",
+    "/assets/js/files.js": "/assets/js/files.js",
+    "/assets/js/forgot-password.js": "/assets/js/forgot-password.js",
+    "/assets/js/login.js": "/assets/js/login.js",
+    "/assets/js/register.js": "/assets/js/register.js",
+    "/assets/js/reset-password.js": "/assets/js/reset-password.js"
+}

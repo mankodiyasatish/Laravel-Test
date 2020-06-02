@@ -1,0 +1,23 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+.help-block-error {
+    font-size: 12px;
+    color: $red;
+}
+
+.custom-file-label {
+    z-index: 99 !important;
+
+    ul {
+        li {
+            padding: 5px 10px;
+        }
+    }
+}
